@@ -19,6 +19,5 @@ this readme is WIP
 
 
 <p>
-  I like ricing<br>
-  Binary exploitation seems fun<br>
+  Security nerd
 </p>
