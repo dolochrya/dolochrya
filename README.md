@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi There!</h1>
 
-<!--
-**dolochrya/dolochrya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=bash,c,arch,rust)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<i>
+  
+> Arch is supreme awooga
+
+</i>
+
+###
+
+> [!NOTE]
+this readme is WIP
+
+
+
+<p>
+  I like ricing<br>
+  Binary exploitation seems fun<br>
+</p>
