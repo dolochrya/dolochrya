@@ -1,24 +1,23 @@
-<div align="center">
-  <h1>Hi There!</h1>
-
+<h1 align="center">Hi There!</h1>
+<br>
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,arch,neovim" />
-  </a>
+Begginer interested in low level security. I also enjoy ricing.
 </p>
 
-</div>
+> **Neovim** is superior
+
 
 ###
 
-> [!NOTE]
-this readme is WIP
-  
-I'm a college student interested in low level security. I also enjoy ricing.
-
 ## Tech Stack
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,linux" />
+  </a>
+</p>
 
-
-**Languages:** C                <br>
-**Tools:** Git, Github, (Arch) Linux   <br>
+I'm learning the basics **x86 Assembly** *(NASM)* along with brushing up on **C**.
+<br><br>
+Daily driving **Arch**, though I'd like explore **NixOS**.
+<br>
